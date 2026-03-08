@@ -9,7 +9,7 @@ MCA student documenting my daily coding practice.
 - Build strong foundation for placements
 
 ## Progress
-- Started: Jan 29, 2026
+- Started: March 8, 2026
 - Current Focus: C++ Basics
 
 ## Daily Updates
